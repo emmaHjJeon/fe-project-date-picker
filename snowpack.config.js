@@ -5,6 +5,6 @@ module.exports = {
   },
   optimize: {
     minify:true
-  }
+  }, 
   plugins: ['@snowpack/plugin-sass'],
 };
