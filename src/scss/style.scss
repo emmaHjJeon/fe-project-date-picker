@@ -119,18 +119,6 @@
         &.selected {
           background-color: #00ca85;
         }
-        // // ! js로 동적으로 구현할 예정
-        // &:nth-child(7n+2) {
-        //   color: red;
-        // }
-        // // ! js로 동적으로 구현할 예정
-        // &:nth-child(7n+1) {
-        //   color: blue;
-        // }
-        // // ! js로 동적으로 구현할 예정
-        // &:first-child {
-        //   grid-column-start: 7;
-        // }
       }
     }
   }
